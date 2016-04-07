@@ -1,1 +1,1 @@
-# python_study
+python study here for python syntax class functional coding
